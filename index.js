@@ -4,10 +4,10 @@
 // até termos terminado de percorrer todo o array.
 // Amanda Lobo, Lucas de Almeida, Vanessa do Santos, Tiago Alexandre
 
-let array = [ 5, 'José', 'Maria', 10 ];
+let array1 = [ 5, 10, 8, 10 ];
 let soma = 0;
 
-for( let i=0; i<array.length; i++) {
-    soma += array[i]
+for( let i=0; i<array1.length; i++) {
+    soma += array1[i]
     console.log(soma)
 }
